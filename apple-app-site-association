@@ -4,7 +4,7 @@
 "details":[
    {
 	"appID": "J349XY2U25.com.nttdocomo.sample.ultest",
-	"paths": ["/path1/", "/path2", "/path3"]
+	"paths": ["/path1/", "/path2/", "/path3/"]
    }
 ]
 }
