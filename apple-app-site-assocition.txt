@@ -1,0 +1,11 @@
+{
+"applinks":{
+"apps":[],
+"details":[
+{
+ "appID": "J349XY2U25.com.nttdocomo.sample.ultest",
+"paths”:[“path1/*”]
+}
+]
+}
+}
